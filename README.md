@@ -19,5 +19,5 @@
    ```
 2. run the following command to run the UI: 
     ```bash
-    flutter run -d chrome lib/uihub/uihub_basic_bottom_sheet/main.dart
+    flutter run -d chrome lib/uihub/uihub_basic_bottom_sheet/usage.dart
     ```
